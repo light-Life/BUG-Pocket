@@ -2,7 +2,6 @@
 import json
 import requests
 
-#fofa：app="Yonyou-Seeyon-OA" && body="致远协创A6" && host!="gov.cn"
 
 urls = open('url.txt')
 
